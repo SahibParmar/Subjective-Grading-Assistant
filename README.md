@@ -69,3 +69,14 @@ All local models run **entirely on CPU**, reducing the cost of large-scale deplo
 
 ---
 
+---
+## Fine tuned Models
+You can find the fine tuned model on https://drive.google.com/drive/folders/1lO9oG2EndQOFuoXCRbsD84VdLLF7NGs6?usp=drive_link 
+
+## Datasets 
+1. SQuAD 2.0 - https://www.kaggle.com/datasets/thedevastator/squad2-0-a-challenge-for-question-answering-syst
+2. HotpotQA - https://www.kaggle.com/datasets/jeromeblanchet/hotpotqa-question-answering-dataset
+3. MASHQA - https://drive.google.com/file/d/1RY_gWB4gaUPkW3w9WhIZAwxg5dzNFliK/view
+
+---
+
