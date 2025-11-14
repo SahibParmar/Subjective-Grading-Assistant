@@ -59,6 +59,7 @@ Suggests minimal rubric adjustments when students bring up valid but uncovered p
 ## 🧠 Model Stack  
 **Generative Models**
 - GPT-OSS 120B (via Groq)
+- llama-3.3-70b-versatile (via Groq)
 
 **Extractive / Embedding Models**
 - `deberta-v3-large-squad2` (QA)
